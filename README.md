@@ -9,8 +9,9 @@ Built by:
 - Matt Peters: github.com/wehttamclan
 - Kathleen Yruegas: github.com/KathleenYruegas
 
-![Image of Landing Page](https://github.com/BeccaHyland/star_party/blob/readme_apod/app/assets/images/landing2.png)
-![Image of Landing Page](https://github.com/BeccaHyland/star_party/blob/readme_apod/app/assets/images/landing3.png)
+![Image of Landing Page](https://github.com/BeccaHyland/star_party/blob/readme_apod/app/assets/images/landing1.png =330×585)
+![Image of Landing Page](https://github.com/BeccaHyland/star_party/blob/readme_apod/app/assets/images/landing2.png =330×585)
+![Image of Landing Page](https://github.com/BeccaHyland/star_party/blob/readme_apod/app/assets/images/landing3.png =330×585)
 
 To use the app, simply visit https://star-party.herokuapp.com/ and start browsing around!
 
