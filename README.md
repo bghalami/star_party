@@ -9,7 +9,6 @@ Built by:
 - Matt Peters: github.com/wehttamclan
 - Kathleen Yruegas: github.com/KathleenYruegas
 
-![Image of Landing Page](https://github.com/BeccaHyland/star_party/blob/readme_apod/app/assets/images/landing1.png)
 ![Image of Landing Page](https://github.com/BeccaHyland/star_party/blob/readme_apod/app/assets/images/landing2.png)
 ![Image of Landing Page](https://github.com/BeccaHyland/star_party/blob/readme_apod/app/assets/images/landing3.png)
 
