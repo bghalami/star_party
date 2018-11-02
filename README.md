@@ -10,10 +10,8 @@ Built by:
 - Kathleen Yruegas: github.com/KathleenYruegas
 
 <img src="https://github.com/BeccaHyland/star_party/blob/readme_apod/app/assets/images/landing1.png" alt="Image of Landing Page" width="330" height="585"/>
-
-![Image of Landing Page](https://github.com/BeccaHyland/star_party/blob/readme_apod/app/assets/images/landing1.png =330×585)
-![Image of Landing Page](https://github.com/BeccaHyland/star_party/blob/readme_apod/app/assets/images/landing2.png =330×585)
-![Image of Landing Page](https://github.com/BeccaHyland/star_party/blob/readme_apod/app/assets/images/landing3.png =330×585)
+<img src="https://github.com/BeccaHyland/star_party/blob/readme_apod/app/assets/images/landing2.png" alt="Image of Landing Page" width="330" height="585"/>
+<img src="https://github.com/BeccaHyland/star_party/blob/readme_apod/app/assets/images/landing3.png" alt="Image of Landing Page" width="330" height="585"/>
 
 To use the app, simply visit https://star-party.herokuapp.com/ and start browsing around!
 
