@@ -3,7 +3,7 @@ require 'rails_helper'
 describe 'visitor searches for parties' do
   context 'with a valid zip code' do
     it 'returns all parties' do
-      VCR.use_cassette("create 5 parties") do
+      VCR.use_cassette("create 5 parties3") do
         create_list(:party, 5)
       end
 
@@ -55,19 +55,21 @@ describe 'visitor searches for parties' do
     it 'does not return parties outside 15mi radius' do
       host = create(:user)
 
-      VCR.use_cassette("create near and far parties") do
+      VCR.use_cassette("create near and far parties2") do
         @near_party = create(:party, title: "Near Party")
         @far_party = create(:party,
-                          title: "Far Party",
-                          zip_code: 14624,
-                          latitude: 43.161030,
-                          longitude: -77.610924)
+                            title: "Far Party",
+                            zip_code: 70119,
+                            street_address: "980 Grant Street",
+                            city: "New Orleans",
+                            state: "LA"
+                          )
       end
 
       VCR.use_cassette("visit root") do
         visit '/'
       end
-
+      
       fill_in :q_find, with: 80203
       VCR.use_cassette("find to not show far parties") do
         find(".find", visible: false).click

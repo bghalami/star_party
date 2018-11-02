@@ -13,7 +13,10 @@ Built by:
 <em><img src="https://github.com/BeccaHyland/star_party/blob/readme_apod/app/assets/images/landing1.png" alt="Image of Landing Page" width="280" height="496"/></em>
 <em><img src="https://github.com/BeccaHyland/star_party/blob/readme_apod/app/assets/images/landing2.png" alt="Image of Landing Page" width="280" height="496"/></em>
 <em><img src="https://github.com/BeccaHyland/star_party/blob/readme_apod/app/assets/images/landing3.png" alt="Image of Landing Page" width="280" height="496"/></em>
+## NASA Astronomy Picture of the Day
+The background image is sourced from NASA's astronomy picture of the day.  Each day a different image or photograph of our fascinating universe is featured.
 
+## Usage
 To use the app, simply visit https://star-party.herokuapp.com/ and start browsing around!
 
 You can sign in with Google (using OAuth) or you can create an account on the app.

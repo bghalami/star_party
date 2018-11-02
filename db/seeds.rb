@@ -36,7 +36,7 @@ Party.create(title: "Nebula Party",
           host_id: host.id)
 
 Party.create(title: "Meteor Party",
-          date: "07-07-2017",
+          date: "07-07-2020",
           description: "View Lovelace Meteor Shower",
           street_address: "15600 W Morrison Rd",
           city: "Lakewood",
@@ -44,4 +44,15 @@ Party.create(title: "Meteor Party",
           zip_code: 80228,
           latitude: 39.6497555,
           longitude: -105.1629224,
+          host_id: host.id)
+
+Party.create(title: "Meteor Party",
+          date: "07-08-2019",
+          description: "View Lovelace Meteor Shower",
+          street_address: "980 Grant Street",
+          city: "Denver",
+          state: "CO",
+          zip_code: 80203,
+          latitude: 39.731650,
+          longitude: -104.983180,
           host_id: host.id)

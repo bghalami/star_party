@@ -12,6 +12,5 @@ class PartySearchResult
     end
 
     @parties.uniq
-
   end
 end

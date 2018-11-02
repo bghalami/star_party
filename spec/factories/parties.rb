@@ -1,14 +1,12 @@
 FactoryBot.define do
   factory :party do
     title { Faker::Book.title }
-    date { "2018-11-01 10:54:47" }
+    date { "07-08-2099 10:54:00" }
     description { "Viewing the Sample Celestial Event" }
-    street_address { "1000 Sample Road" }
-    city { "Sampleville" }
+    street_address { "980 Grant Street" }
+    city { "Denver" }
     state { "CO"}
     zip_code { 80203 }
-    latitude { 39.742043 }
-    longitude { -104.991531 }
     association :host, factory: :user
   end
 end
