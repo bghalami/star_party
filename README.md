@@ -10,6 +10,9 @@ Built by:
 - Kathleen Yruegas: github.com/KathleenYruegas
 
 ![Image of Landing Page](https://github.com/BeccaHyland/star_party/blob/master/app/assets/images/Landing%20Page.png)
+![Image of Landing Page](https://github.com/BeccaHyland/star_party/blob/master/app/assets/images/landing1.png)
+![Image of Landing Page](https://github.com/BeccaHyland/star_party/blob/master/app/assets/images/landing2.png)
+![Image of Landing Page](https://github.com/BeccaHyland/star_party/blob/master/app/assets/images/landing.png)
 
 To use the app, simply visit https://star-party.herokuapp.com/ and start browsing around!
 
