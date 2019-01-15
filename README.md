@@ -4,10 +4,10 @@
 This project was developed out of a need and desire to create more interest and community around the astronomy community. One of the most exciting events in astronomy is the Star Party. Typically, this is when people gather, and with the help of an expert and a telescope, they learn and admire the sights in the night sky. Sounds exciting, but the problem is finding these parties! Sometimes you can find a stray post on meetup or a local astronomical society website, but you have to spend too much time searching just to find an event near you.  Enter the StarParty app, where anyone can create a Star Party or search for a Star Party all from one easy to use app! 
 
 Built by:
-- Becca Hyland: github.com/BeccaHyland
-- Ben Ghalami: github.com/bghalmi
-- Matt Peters: github.com/wehttamclan
-- Kathleen Yruegas: github.com/KathleenYruegas
+- [Becca Hyland](https://github.com/BeccaHyland)
+- [Ben Ghalami](https://github.com/bghalami)
+- [Matt Peters](https://github.com/wehttamclan)
+- [Kathleen Yruegas](https://github.com/KathleenYruegas)
 
 ## NASA Astronomy Picture of the Day
 The background image is sourced from NASA's astronomy picture of the day.  Each day a different image or photograph of our fascinating universe is featured.
